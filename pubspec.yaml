@@ -1,0 +1,28 @@
+name: haptic_swipe_slider
+description: A modern, highly customizable slide-to-confirm pill slider with tactile haptic feedback, spring physics, shimmer trail, and async loading states.
+version: 0.0.1
+homepage: https://github.com/BalochCodes/haptic_swipe_slider
+repository: https://github.com/BalochCodes/haptic_swipe_slider
+issue_tracker: https://github.com/BalochCodes/haptic_swipe_slider/issues
+
+topics:
+  - slider
+  - swipe-to-confirm
+  - slide-action
+  - haptics
+  - ui
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
